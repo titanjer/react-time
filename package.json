@@ -1,10 +1,10 @@
 {
   "name": "react-time",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "description": "react component for rendering formatted timestamps",
   "main": "dist/index.js",
   "peerDependencies": {
-    "react": "~0.12.0",
+    "react": "^0.13.0-beta.1",
     "moment": "^2.8.3"
   },
   "devDependencies": {
